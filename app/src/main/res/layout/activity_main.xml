@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light"
+    tools:context="tk.koalazone.a1palavra1msica.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="356dp"
+        android:layout_height="343dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginStart="16dp"
+        android:contentDescription="@string/img"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/pem" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="156dp"
+        android:layout_height="128dp"
+        android:layout_marginBottom="168dp"
+        android:layout_marginEnd="12dp"
+        android:background="@android:color/holo_blue_light"
+        android:contentDescription="@string/teff"
+        android:scaleType="fitStart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/united_states_of_america_640" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="161dp"
+        android:layout_height="132dp"
+        android:layout_marginBottom="164dp"
+        android:layout_marginStart="24dp"
+        android:background="@android:color/holo_blue_light"
+        android:contentDescription="@string/title"
+        android:scaleType="fitStart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/brazil_640" />
+</android.support.constraint.ConstraintLayout>

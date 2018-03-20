@@ -1,0 +1,11 @@
+<resources>
+    <string name="title"><![CDATA[Words & Music]]></string>
+    <string name="help">HELP</string>
+    <string name="start">PLAY</string>
+    <string name="teff">Músicas com a palavra:</string>
+    <string name="next">NEXT WORD!</string>
+    <string name="STEPS" >HOW TO PLAY:</string>
+    <string name="app_name">1 Word, 1 Song</string>
+    <string name="back">BACK</string>
+    <string name="img">Logo of the Bagaça</string>
+</resources>

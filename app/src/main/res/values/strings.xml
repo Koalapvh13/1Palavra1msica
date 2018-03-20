@@ -1,0 +1,13 @@
+<resources>
+    <string name="title"><![CDATA[Palavra & música]]></string>
+    <string name="help">Inglês</string>
+    <string name="start">Português</string>
+    <string name="teff">Músicas com a palavra:</string>
+    <string name="next">PRÓXIMA PALAVRA</string>
+    <string name="STEPS" >COMO JOGAR :</string>
+    <string name="app_name">Uma Palavra, 1 Música</string>
+    <string name="back">VOLTAR</string>
+    <string name="img">Logo da Bagaça</string>
+    <string name="NEXT2">NEXT WORD</string>
+    <string name="TEEFF">Music with the word:</string>
+</resources>
