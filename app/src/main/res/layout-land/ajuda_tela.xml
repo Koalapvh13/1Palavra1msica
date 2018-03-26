@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/holo_blue_light"
-    tools:context="tk.koalazone.a1palavra1msica.jogo">
+    tools:context="tk.koalazone.a1palavra1msica.AjudaTela">
 
     <TextView
         android:id="@+id/textView"
@@ -16,7 +16,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/itim"
-        android:text="@string/teff"
+        android:text="@string/TEEFF"
         android:textAlignment="center"
         android:textColor="@android:color/background_dark"
         android:textSize="40sp"
@@ -39,7 +39,7 @@
         android:background="@android:color/holo_red_dark"
         android:fontFamily="@font/itim"
         android:lineSpacingExtra="10sp"
-        android:text="@string/next"
+        android:text="@string/NEXT2"
         android:textAlignment="center"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
